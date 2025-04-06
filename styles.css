@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background: #fffaf9;
+    color: #333;
+}
+
+.hero {
+    background: url("images/hero.jpg") no-repeat center center / cover;
+    text-align: center;
+    padding: 100px 20px;
+    color: white;
+}
+
+.hero h1 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 4rem;
+}
+
+section {
+    padding: 60px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    font-family: 'Great Vibes', cursive;
+    font-size: 2.5rem;
+    text-align: center;
+}
