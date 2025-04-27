@@ -1,0 +1,752 @@
+#n-b1af4e21-a0f0-4904-abdd-865293f79efb {
+    top: 2077px;
+    left: 874px;
+    width: 250px;
+    height: 250px;
+    animation-duration: 1s;
+}
+
+#n-9cdc736d-1d6e-4ee1-9482-08eab6704800 {
+    font-size: 60px;
+    font-weight: 400;
+    animation-duration: 1s;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    line-height: 70px;
+    top: 1857px;
+    left: 84px;
+    width: 1080px;
+    height: 139px;
+    font-style: normal;
+}
+
+#n-a7cc9e7c-3c22-42f0-8ff8-13ced3d2f752 {
+    padding-bottom: 0px;
+    width: 1140px;
+    height: 2690px;
+    min-height: 0px;
+    padding-top: 0px;
+}
+
+#n-b4ccdca6-a643-4252-af27-d6fe6913c683 {
+    top: 100px;
+    left: 143px;
+    width: 905px;
+    height: 284px;
+    animation-duration: 1s;
+}
+
+#n-c9c14cf8-22e5-45da-b3ef-c8f2ff5e2aa0 {
+    animation-duration: 1s;
+    width: 988px;
+    font-size: 60px;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-style: normal;
+    font-weight: 400;
+    line-height: 70px;
+    top: 490px;
+    left: 80px;
+    height: 69px;
+}
+
+#n-bcb8ecdb-840d-4b51-828d-17a383396b0a {
+    width: 250px;
+    height: 250px;
+    animation-duration: 1s;
+    top: 2073px;
+    left: 25px;
+}
+
+#n-21c47e74-bb56-4624-9041-d4eeb05a496a {
+    top: 649px;
+    left: 176px;
+    width: 789px;
+    height: 574px;
+    animation-duration: 1s;
+}
+
+#n-c12c7107-794c-4911-bfaf-dbec5ea330e2 {
+    width: 1634px;
+    height: 2590px;
+    transform: rotate(2deg);
+    top: -167px;
+    left: -246px;
+}
+
+#n-68cabfdf-08e9-47c5-afbf-f6751212abad {
+    animation-duration: 1s;
+    top: 400px;
+    left: 176px;
+    width: 796px;
+    height: 69px;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    line-height: 70px;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+#n-cca7401b-a3bf-43a5-ad28-85d91224c208 {
+    height: 233px;
+    animation-duration: 1s;
+    top: 1598px;
+    left: 77px;
+    width: 995px;
+}
+
+#n-76ada89f-92b7-423e-a312-eff609d7e09b {
+    line-height: 60px;
+    border-bottom-left-radius: 15px;
+    animation-duration: 1s;
+    border-top-left-radius: 15px;
+    --normal-background-color: rgba(255, 255, 255, 1);
+    top: 1336px;
+    height: 115px;
+    font-size: 50px;
+    font-style: normal;
+    --normal-color: rgba(0, 0, 0, 1);
+    width: 731px;
+    --hover-background-color: rgba(255, 255, 255, 0.7);
+    border-bottom-right-radius: 15px;
+    left: 205px;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    --normal-border: 1px solid rgba(0, 0, 0, 1);
+    border-top-right-radius: 15px;
+}
+
+#n-44b55104-b275-47d7-ac01-ed462cf18fbc {
+    left: 79px;
+    font-size: 60px;
+    font-weight: 400;
+    animation-duration: 1s;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    line-height: 70px;
+    top: 2395px;
+    width: 980px;
+    height: 139px;
+    font-style: normal;
+}
+
+#n-6424a364-1cdc-4d96-900d-b001eb2a22ea {
+    background-image: var(--bg-1920, var(--background-image));
+}
+
+#n-a069ab4a-f46e-4d41-8d83-0eab15b08807 {
+    top: 2079px;
+    left: 305px;
+    width: 250px;
+    height: 250px;
+    animation-duration: 1s;
+}
+
+#n-c9527117-f2ff-4d85-8939-1555704e8444 {
+    top: 2079px;
+    left: 588px;
+    width: 250px;
+    height: 250px;
+    animation-duration: 1s;
+}
+
+@media screen and (max-width: 1199px) {
+    #n-a7cc9e7c-3c22-42f0-8ff8-13ced3d2f752 {
+        padding-bottom: 0px;
+        width: 1024px;
+        height: 620px;
+        min-height: 0px;
+        padding-top: 0px;
+    }
+
+    #n-68cabfdf-08e9-47c5-afbf-f6751212abad {
+        font-style: normal;
+        line-height: 70px;
+        height: 69px;
+        font-size: 60px;
+        width: 796px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        animation-duration: 1s;
+        top: 400px;
+        left: 176px;
+    }
+
+    #n-a069ab4a-f46e-4d41-8d83-0eab15b08807 {
+        height: 250px;
+        animation-duration: 1s;
+        top: 2079px;
+        left: 305px;
+        width: 250px;
+    }
+
+    #n-21c47e74-bb56-4624-9041-d4eeb05a496a {
+        top: 649px;
+        left: 176px;
+        width: 789px;
+        height: 574px;
+        animation-duration: 1s;
+    }
+
+    #n-c12c7107-794c-4911-bfaf-dbec5ea330e2 {
+        transform: rotate(2deg);
+        top: -167px;
+        left: -246px;
+        width: 1634px;
+        height: 2590px;
+    }
+
+    #n-76ada89f-92b7-423e-a312-eff609d7e09b {
+        --normal-color: rgba(0, 0, 0, 1);
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        font-size: 50px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        width: 731px;
+        height: 115px;
+        border-top-left-radius: 15px;
+        --hover-background-color: rgba(255, 255, 255, 0.7);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        top: 1336px;
+        line-height: 60px;
+        animation-duration: 1s;
+        border-bottom-left-radius: 15px;
+        left: 205px;
+        font-weight: 400;
+        --normal-border: 1px solid rgba(0, 0, 0, 1);
+    }
+
+    #n-b4ccdca6-a643-4252-af27-d6fe6913c683 {
+        top: 100px;
+        left: 143px;
+        width: 905px;
+        height: 284px;
+        animation-duration: 1s;
+    }
+
+    #n-c9c14cf8-22e5-45da-b3ef-c8f2ff5e2aa0 {
+        font-weight: 400;
+        line-height: 70px;
+        left: 80px;
+        width: 988px;
+        height: 69px;
+        font-style: normal;
+        top: 490px;
+        font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        animation-duration: 1s;
+    }
+
+    #n-c9527117-f2ff-4d85-8939-1555704e8444 {
+        animation-duration: 1s;
+        top: 2079px;
+        left: 588px;
+        width: 250px;
+        height: 250px;
+    }
+
+    #n-6424a364-1cdc-4d96-900d-b001eb2a22ea {
+        background-image: var(--bg-1199, var(--background-image));
+    }
+
+    #n-cca7401b-a3bf-43a5-ad28-85d91224c208 {
+        top: 1598px;
+        left: 77px;
+        width: 995px;
+        height: 233px;
+        animation-duration: 1s;
+    }
+
+    #n-bcb8ecdb-840d-4b51-828d-17a383396b0a {
+        left: 25px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+        top: 2073px;
+    }
+
+    #n-b1af4e21-a0f0-4904-abdd-865293f79efb {
+        top: 2077px;
+        left: 874px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-9cdc736d-1d6e-4ee1-9482-08eab6704800 {
+        width: 980px;
+        height: 139px;
+        font-weight: 400;
+        top: 1857px;
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        animation-duration: 1s;
+        left: 84px;
+    }
+
+    #n-44b55104-b275-47d7-ac01-ed462cf18fbc {
+        left: 79px;
+        height: 139px;
+        line-height: 70px;
+        animation-duration: 1s;
+        top: 2395px;
+        width: 980px;
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    #n-b4ccdca6-a643-4252-af27-d6fe6913c683 {
+        width: 905px;
+        height: 284px;
+        animation-duration: 1s;
+        top: 100px;
+        left: 143px;
+    }
+
+    #n-a069ab4a-f46e-4d41-8d83-0eab15b08807 {
+        top: 2079px;
+        left: 305px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-44b55104-b275-47d7-ac01-ed462cf18fbc {
+        top: 2395px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        animation-duration: 1s;
+        left: 79px;
+        width: 980px;
+        height: 139px;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-68cabfdf-08e9-47c5-afbf-f6751212abad {
+        width: 796px;
+        height: 69px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 70px;
+        animation-duration: 1s;
+        top: 400px;
+        left: 176px;
+        font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+    }
+
+    #n-bcb8ecdb-840d-4b51-828d-17a383396b0a {
+        top: 2073px;
+        left: 25px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-a7cc9e7c-3c22-42f0-8ff8-13ced3d2f752 {
+        width: 768px;
+        height: 631px;
+        min-height: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #n-c12c7107-794c-4911-bfaf-dbec5ea330e2 {
+        top: -167px;
+        left: -246px;
+        width: 1634px;
+        height: 2590px;
+        transform: rotate(2deg);
+    }
+
+    #n-cca7401b-a3bf-43a5-ad28-85d91224c208 {
+        left: 77px;
+        width: 995px;
+        height: 233px;
+        animation-duration: 1s;
+        top: 1598px;
+    }
+
+    #n-76ada89f-92b7-423e-a312-eff609d7e09b {
+        --hover-background-color: rgba(255, 255, 255, 0.7);
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        font-size: 50px;
+        --normal-border: 1px solid rgba(0, 0, 0, 1);
+        height: 115px;
+        font-style: normal;
+        line-height: 60px;
+        --normal-color: rgba(0, 0, 0, 1);
+        animation-duration: 1s;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        top: 1336px;
+        width: 731px;
+        border-top-left-radius: 15px;
+        left: 205px;
+        font-weight: 400;
+    }
+
+    #n-21c47e74-bb56-4624-9041-d4eeb05a496a {
+        top: 649px;
+        left: 176px;
+        width: 789px;
+        height: 574px;
+        animation-duration: 1s;
+    }
+
+    #n-c9c14cf8-22e5-45da-b3ef-c8f2ff5e2aa0 {
+        font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        width: 988px;
+        left: 80px;
+        height: 69px;
+        font-style: normal;
+        animation-duration: 1s;
+        top: 490px;
+    }
+
+    #n-c9527117-f2ff-4d85-8939-1555704e8444 {
+        top: 2079px;
+        left: 588px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-b1af4e21-a0f0-4904-abdd-865293f79efb {
+        top: 2077px;
+        left: 874px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-9cdc736d-1d6e-4ee1-9482-08eab6704800 {
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 70px;
+        left: 84px;
+        width: 980px;
+        height: 139px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        animation-duration: 1s;
+        top: 1857px;
+    }
+
+    #n-6424a364-1cdc-4d96-900d-b001eb2a22ea {
+        background-image: var(--bg-1023, var(--background-image));
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #n-c9527117-f2ff-4d85-8939-1555704e8444 {
+        height: 250px;
+        animation-duration: 1s;
+        top: 2079px;
+        left: 588px;
+        width: 250px;
+    }
+
+    #n-44b55104-b275-47d7-ac01-ed462cf18fbc {
+        height: 139px;
+        font-weight: 400;
+        line-height: 70px;
+        top: 2395px;
+        width: 980px;
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        animation-duration: 1s;
+        left: 79px;
+    }
+
+    #n-21c47e74-bb56-4624-9041-d4eeb05a496a {
+        left: 176px;
+        width: 789px;
+        height: 574px;
+        animation-duration: 1s;
+        top: 649px;
+    }
+
+    #n-a7cc9e7c-3c22-42f0-8ff8-13ced3d2f752 {
+        padding-bottom: 0px;
+        width: 667px;
+        height: 455px;
+        min-height: 0px;
+        padding-top: 0px;
+    }
+
+    #n-c9c14cf8-22e5-45da-b3ef-c8f2ff5e2aa0 {
+        left: 80px;
+        height: 69px;
+        font-size: 60px;
+        font-weight: 400;
+        top: 490px;
+        width: 988px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        animation-duration: 1s;
+    }
+
+    #n-9cdc736d-1d6e-4ee1-9482-08eab6704800 {
+        height: 139px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        animation-duration: 1s;
+        left: 84px;
+        width: 980px;
+        font-style: normal;
+        top: 1857px;
+        font-size: 60px;
+    }
+
+    #n-76ada89f-92b7-423e-a312-eff609d7e09b {
+        top: 1336px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        --normal-color: rgba(0, 0, 0, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 15px;
+        left: 205px;
+        width: 731px;
+        height: 115px;
+        font-style: normal;
+        font-weight: 400;
+        --normal-border: 1px solid rgba(0, 0, 0, 1);
+        border-top-right-radius: 15px;
+        font-size: 50px;
+        line-height: 60px;
+        animation-duration: 1s;
+        border-top-left-radius: 15px;
+        --hover-background-color: rgba(255, 255, 255, 0.7);
+        border-bottom-right-radius: 15px;
+    }
+
+    #n-cca7401b-a3bf-43a5-ad28-85d91224c208 {
+        top: 1598px;
+        left: 77px;
+        width: 995px;
+        height: 233px;
+        animation-duration: 1s;
+    }
+
+    #n-b1af4e21-a0f0-4904-abdd-865293f79efb {
+        height: 250px;
+        animation-duration: 1s;
+        top: 2077px;
+        left: 874px;
+        width: 250px;
+    }
+
+    #n-6424a364-1cdc-4d96-900d-b001eb2a22ea {
+        background-image: var(--bg-767, var(--background-image));
+    }
+
+    #n-c12c7107-794c-4911-bfaf-dbec5ea330e2 {
+        height: 2590px;
+        transform: rotate(2deg);
+        top: -167px;
+        left: -246px;
+        width: 1634px;
+    }
+
+    #n-68cabfdf-08e9-47c5-afbf-f6751212abad {
+        top: 400px;
+        width: 796px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        left: 176px;
+        height: 69px;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        animation-duration: 1s;
+    }
+
+    #n-b4ccdca6-a643-4252-af27-d6fe6913c683 {
+        left: 143px;
+        width: 905px;
+        height: 284px;
+        animation-duration: 1s;
+        top: 100px;
+    }
+
+    #n-bcb8ecdb-840d-4b51-828d-17a383396b0a {
+        height: 250px;
+        animation-duration: 1s;
+        top: 2073px;
+        left: 25px;
+        width: 250px;
+    }
+
+    #n-a069ab4a-f46e-4d41-8d83-0eab15b08807 {
+        top: 2079px;
+        left: 305px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+}
+
+@media screen and (max-width: 666px) {
+    #n-c12c7107-794c-4911-bfaf-dbec5ea330e2 {
+        left: -246px;
+        width: 1634px;
+        height: 2590px;
+        transform: rotate(2deg);
+        top: -167px;
+    }
+
+    #n-bcb8ecdb-840d-4b51-828d-17a383396b0a {
+        top: 2073px;
+        left: 25px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-21c47e74-bb56-4624-9041-d4eeb05a496a {
+        top: 649px;
+        left: 176px;
+        width: 789px;
+        height: 574px;
+        animation-duration: 1s;
+    }
+
+    #n-a069ab4a-f46e-4d41-8d83-0eab15b08807 {
+        height: 250px;
+        animation-duration: 1s;
+        top: 2079px;
+        left: 305px;
+        width: 250px;
+    }
+
+    #n-c9527117-f2ff-4d85-8939-1555704e8444 {
+        top: 2079px;
+        left: 588px;
+        width: 250px;
+        height: 250px;
+        animation-duration: 1s;
+    }
+
+    #n-b1af4e21-a0f0-4904-abdd-865293f79efb {
+        height: 250px;
+        animation-duration: 1s;
+        top: 2077px;
+        left: 874px;
+        width: 250px;
+    }
+
+    #n-76ada89f-92b7-423e-a312-eff609d7e09b {
+        font-style: normal;
+        line-height: 60px;
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        width: 731px;
+        font-size: 50px;
+        --normal-border: 1px solid rgba(0, 0, 0, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        font-weight: 400;
+        --normal-color: rgba(0, 0, 0, 1);
+        animation-duration: 1s;
+        --hover-background-color: rgba(255, 255, 255, 0.7);
+        height: 115px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        top: 1336px;
+        left: 205px;
+    }
+
+    #n-6424a364-1cdc-4d96-900d-b001eb2a22ea {
+        background-image: var(--bg-666, var(--background-image));
+    }
+
+    #n-a7cc9e7c-3c22-42f0-8ff8-13ced3d2f752 {
+        width: 360px;
+        height: 504px;
+        min-height: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #n-b4ccdca6-a643-4252-af27-d6fe6913c683 {
+        top: 100px;
+        left: 143px;
+        width: 905px;
+        height: 284px;
+        animation-duration: 1s;
+    }
+
+    #n-44b55104-b275-47d7-ac01-ed462cf18fbc {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        left: 79px;
+        width: 980px;
+        font-size: 60px;
+        font-weight: 400;
+        line-height: 70px;
+        animation-duration: 1s;
+        top: 2395px;
+        height: 139px;
+        font-style: normal;
+    }
+
+    #n-9cdc736d-1d6e-4ee1-9482-08eab6704800 {
+        font-style: normal;
+        font-weight: 400;
+        height: 139px;
+        left: 84px;
+        width: 980px;
+        font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        animation-duration: 1s;
+        top: 1857px;
+    }
+
+    #n-cca7401b-a3bf-43a5-ad28-85d91224c208 {
+        top: 1598px;
+        left: 77px;
+        width: 995px;
+        height: 233px;
+        animation-duration: 1s;
+    }
+
+    #n-68cabfdf-08e9-47c5-afbf-f6751212abad {
+        font-weight: 400;
+        line-height: 70px;
+        top: 400px;
+        width: 796px;
+        height: 69px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        left: 176px;
+        font-size: 60px;
+        animation-duration: 1s;
+    }
+
+    #n-c9c14cf8-22e5-45da-b3ef-c8f2ff5e2aa0 {
+        animation-duration: 1s;
+        top: 490px;
+        font-size: 60px;
+        line-height: 70px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        left: 80px;
+        width: 988px;
+        height: 69px;
+    }
+}

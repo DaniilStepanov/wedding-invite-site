@@ -1,0 +1,1606 @@
+#n-b6ec750d-d152-4550-b949-7b0bc4222da5 {
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    border-top-left-radius: 6px;
+    color: rgba(255, 255, 255, 1);
+    --active-border: 0px solid rgb(0, 0, 255);
+    border-top-right-radius: 6px;
+    --active-background-color: rgba(255, 255, 255, 1);
+    --normal-background-color: rgba(255, 255, 255, 1);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    --active-box-shadow: none;
+    --normal-box-shadow: none;
+}
+
+#n-6c5d1d11-6a65-48c2-9b3a-cfa0abaf4652 {
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+}
+
+#n-e99f9973-33dc-45cd-9577-b86c92555d8f {
+    top: 285px;
+    left: 343px;
+    width: 458px;
+    height: 84px;
+    animation-delay: 0s;
+    animation-duration: 0.5s;
+}
+
+#n-aea48321-f71d-434b-94ce-e23e18574d1e {
+    font-size: 60px;
+    margin-bottom: 25px;
+    --normal-border: 2px solid rgba(33, 33, 33, 1);
+    --normal-background-color: rgba(238, 238, 238, 1);
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    line-height: 70px;
+    --focus-border: 2px solid rgba(33, 33, 33, 1);
+    --normal-box-shadow: none;
+    border-top-right-radius: 15px;
+    font-style: normal;
+    --normal-color: rgba(33, 33, 33, 1);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-weight: 400;
+    margin-right: 0px;
+    border-bottom-left-radius: 15px;
+}
+
+#n-aea48321-f71d-434b-94ce-e23e18574d2e {
+    font-size: 60px;
+    margin-bottom: 25px;
+    --normal-border: 2px solid rgba(33, 33, 33, 1);
+    --normal-background-color: rgba(238, 238, 238, 1);
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    line-height: 70px;
+    --focus-border: 2px solid rgba(33, 33, 33, 1);
+    --normal-box-shadow: none;
+    border-top-right-radius: 15px;
+    font-style: normal;
+    --normal-color: rgba(33, 33, 33, 1);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    font-weight: 400;
+    margin-right: 0px;
+    border-bottom-left-radius: 15px;
+}
+
+#n-8cb819ce-353c-4105-85c6-02d11ca4b7f5 {
+    border-bottom-right-radius: 6px;
+    color: rgba(255, 255, 255, 1);
+    --active-box-shadow: none;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    --active-background-color: rgba(255, 255, 255, 1);
+    border-bottom-left-radius: 6px;
+    --active-border: 0px solid rgb(0, 0, 255);
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    --normal-box-shadow: none;
+    --normal-background-color: rgba(255, 255, 255, 1);
+}
+
+#n-dadfa56f-1bf1-4a7f-ba08-868c3487894c {
+    width: 980px;
+    height: 1797px;
+    animation-duration: 0.5s;
+    top: 211px;
+    left: 80px;
+}
+
+#n-f4f8813d-8448-4448-83e0-2f908da93442 {
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+}
+
+#n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
+    border-bottom-right-radius: 15px;
+    font-size: 60px;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+    --normal-border: 2px solid rgba(33, 33, 33, 1);
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    font-style: normal;
+    --normal-color: rgba(33, 33, 33, 1);
+    --hover-background-color: rgba(158, 158, 158, 1);
+    --normal-background-color: rgba(238, 238, 238, 1);
+    border-bottom-left-radius: 15px;
+}
+
+#n-79585e2b-842b-4bee-81f8-4123ed93c12c {
+    line-height: 70px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+}
+
+#n-2f20aa78-dd1b-4821-928a-4ed172a8eafd {
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    --active-box-shadow: none;
+    border-top-left-radius: 6px;
+    --active-background-color: rgba(255, 255, 255, 1);
+    --normal-background-color: rgba(255, 255, 255, 1);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    color: rgba(255, 255, 255, 1);
+    --active-border: 0px solid rgb(0, 0, 255);
+    --normal-box-shadow: none;
+    border-top-right-radius: 6px;
+}
+
+#n-ae5a743c-bf8b-4496-a444-ddb0f44b54c9 {
+    --normal-box-shadow: none;
+    border-top-right-radius: 6px;
+    --normal-background-color: rgba(255, 255, 255, 1);
+    color: rgba(255, 255, 255, 1);
+    --active-border: 0px solid rgb(0, 0, 255);
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    --active-box-shadow: none;
+    border-top-left-radius: 6px;
+    --active-background-color: rgba(255, 255, 255, 1);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+}
+
+#n-7ef26d48-715e-4e69-9713-492648d50c4a {
+    color: rgba(255, 255, 255, 1);
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    --active-box-shadow: none;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    --normal-background-color: rgba(255, 255, 255, 1);
+    border-bottom-left-radius: 6px;
+    --active-border: 0px solid rgb(0, 0, 255);
+    --normal-box-shadow: none;
+    --active-background-color: rgba(255, 255, 255, 1);
+    border-bottom-right-radius: 6px;
+}
+
+#n-91c99e94-6713-4d78-b339-08b1d836fc12 {
+    background-image: var(--bg-1920, var(--background-image));
+}
+
+#n-170135b4-642a-4de5-9675-12121092dc5d {
+    width: 788px;
+    height: 139px;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    animation-delay: 0s;
+    animation-duration: 0s;
+    top: 425px;
+    left: 175px;
+    font-size: 60px;
+    font-style: normal;
+    line-height: 70px;
+}
+
+#n-6fd6d546-19ff-401d-9201-e74f9931b8f1 {
+    --normal-background-color: rgba(238, 238, 238, 1);
+    border-bottom-left-radius: 15px;
+    margin-right: 0px;
+    --normal-color: rgba(33, 33, 33, 1);
+    --normal-border: 2px solid rgba(33, 33, 33, 1);
+    line-height: 70px;
+    margin-bottom: 25px;
+    --focus-border: 2px solid rgba(33, 33, 33, 1);
+    --normal-box-shadow: none;
+    border-top-right-radius: 15px;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    border-bottom-right-radius: 15px;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    border-top-left-radius: 15px;
+}
+
+#n-f8096427-c739-4f8d-aa83-3b7a43634b31 {
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+    color: rgba(33, 33, 33, 1);
+}
+
+#n-b355807a-c2c3-4b81-a0d0-61b99fda6d3d {
+    line-height: 70px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+}
+
+#n-daf37cb7-e770-4c87-b46a-3840a1a3eb17 {
+    --normal-border: 0px solid rgb(0, 0, 255);
+    --normal-box-shadow: none;
+    --active-background-color: rgba(255, 255, 255, 1);
+    --normal-background-color: rgba(255, 255, 255, 1);
+}
+
+#n-c3bdfa37-5c13-4838-984f-d87b159c5921 {
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+}
+
+#n-2430252b-4ad6-4167-a2b0-d9a8b88c02d3 {
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+}
+
+#n-906205ac-8f82-4ea0-919b-b500cdcf9fcc {
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+}
+
+#n-84f5abf9-46a2-4fd1-9507-b1426382ade4 {
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+}
+
+#n-0d6ce0c9-445a-4ccd-b867-e8968fffe859 {
+    top: 51px;
+    left: 37px;
+    width: 483px;
+    height: 172px;
+    animation-duration: 1s;
+}
+
+#n-f8bed194-e5c4-4c43-bf17-f02d13a79cf6 {
+    left: 175px;
+    width: 790px;
+    height: 1207px;
+    animation-delay: 0s;
+    animation-duration: 0s;
+    top: 611px;
+}
+
+#n-6ffa0430-79a6-4997-96b8-87987bed30db {
+    color: rgba(33, 33, 33, 1);
+    font-size: 60px;
+    font-style: normal;
+    font-family: "Zen Kurenaido", var(--sans-serif);
+    font-weight: 400;
+    line-height: 70px;
+}
+
+#n-fe82e6a6-9ff0-4892-bcec-0006d32ef241 {
+    border-top-right-radius: 6px;
+    --active-background-color: rgba(255, 255, 255, 1);
+    border-bottom-left-radius: 6px;
+    border-bottom-right-radius: 6px;
+    color: rgba(255, 255, 255, 1);
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    --active-box-shadow: none;
+    --normal-box-shadow: none;
+    border-top-left-radius: 6px;
+    --normal-background-color: rgba(255, 255, 255, 1);
+    --active-border: 0px solid rgb(0, 0, 255);
+}
+
+#n-a0aea7cf-fbd5-4ee5-a451-850f6ebb47b5 {
+    height: 2122px;
+    min-height: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    width: 1140px;
+}
+
+#n-1f636169-df42-44c8-b12b-f05cb81ac548 {
+    --normal-background-color: rgba(255, 255, 255, 1);
+    --normal-border: 0px solid rgb(0, 0, 255);
+    --normal-box-shadow: none;
+    --active-background-color: rgba(255, 255, 255, 1);
+}
+
+#n-8b7c004f-56f3-49c9-82e5-9903a968364b {
+    color: rgba(255, 255, 255, 1);
+    --normal-border: 0px solid rgba(255, 255, 255, 1);
+    --normal-box-shadow: none;
+    border-top-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    --active-border: 0px solid rgb(0, 0, 255);
+    --active-box-shadow: none;
+    border-top-left-radius: 6px;
+    --active-background-color: rgba(255, 255, 255, 1);
+    --normal-background-color: rgba(255, 255, 255, 1);
+    border-bottom-right-radius: 6px;
+}
+
+@media screen and (max-width: 1199px) {
+    #n-6fd6d546-19ff-401d-9201-e74f9931b8f1 {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        margin-bottom: 25px;
+        --normal-color: rgba(33, 33, 33, 1);
+        font-weight: 400;
+        line-height: 70px;
+        margin-right: 0px;
+        border-bottom-right-radius: 15px;
+        font-style: normal;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-left-radius: 15px;
+        border-top-right-radius: 15px;
+        font-size: 60px;
+        --normal-box-shadow: none;
+        border-top-left-radius: 15px;
+    }
+
+    #n-b355807a-c2c3-4b81-a0d0-61b99fda6d3d {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+    }
+
+    #n-6c5d1d11-6a65-48c2-9b3a-cfa0abaf4652 {
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+
+    #n-e99f9973-33dc-45cd-9577-b86c92555d8f {
+        animation-duration: 0.5s;
+        top: 285px;
+        left: 343px;
+        width: 458px;
+        height: 84px;
+        animation-delay: 0s;
+    }
+
+    #n-aea48321-f71d-434b-94ce-e23e18574d1e {
+        line-height: 70px;
+        border-bottom-right-radius: 15px;
+        margin-bottom: 25px;
+        --normal-color: rgba(33, 33, 33, 1);
+        border-top-right-radius: 15px;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        --normal-box-shadow: none;
+        border-top-left-radius: 15px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        margin-right: 0px;
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-bottom-left-radius: 15px;
+        font-size: 60px;
+    }
+
+    #n-79585e2b-842b-4bee-81f8-4123ed93c12c {
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+    }
+
+    #n-6ffa0430-79a6-4997-96b8-87987bed30db {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-2430252b-4ad6-4167-a2b0-d9a8b88c02d3 {
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+    }
+
+    #n-a0aea7cf-fbd5-4ee5-a451-850f6ebb47b5 {
+        width: 1024px;
+        height: 608px;
+        min-height: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #n-f4f8813d-8448-4448-83e0-2f908da93442 {
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+    }
+
+    #n-ae5a743c-bf8b-4496-a444-ddb0f44b54c9 {
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-906205ac-8f82-4ea0-919b-b500cdcf9fcc {
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+
+    #n-170135b4-642a-4de5-9675-12121092dc5d {
+        font-weight: 400;
+        animation-delay: 0s;
+        animation-duration: 0s;
+        top: 425px;
+        font-size: 60px;
+        height: 139px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        left: 175px;
+        width: 788px;
+    }
+
+    #n-f8bed194-e5c4-4c43-bf17-f02d13a79cf6 {
+        height: 1207px;
+        animation-delay: 0s;
+        animation-duration: 0s;
+        top: 611px;
+        left: 175px;
+        width: 790px;
+    }
+
+    #n-2f20aa78-dd1b-4821-928a-4ed172a8eafd {
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-top-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+    }
+
+    #n-f8096427-c739-4f8d-aa83-3b7a43634b31 {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+    }
+
+    #n-7ef26d48-715e-4e69-9713-492648d50c4a {
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-c3bdfa37-5c13-4838-984f-d87b159c5921 {
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+    }
+
+    #n-fe82e6a6-9ff0-4892-bcec-0006d32ef241 {
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        border-top-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-8b7c004f-56f3-49c9-82e5-9903a968364b {
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+    }
+
+    #n-84f5abf9-46a2-4fd1-9507-b1426382ade4 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-b6ec750d-d152-4550-b949-7b0bc4222da5 {
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-dadfa56f-1bf1-4a7f-ba08-868c3487894c {
+        height: 1797px;
+        animation-duration: 0.5s;
+        top: 211px;
+        left: 80px;
+        width: 980px;
+    }
+
+    #n-0d6ce0c9-445a-4ccd-b867-e8968fffe859 {
+        width: 483px;
+        height: 172px;
+        animation-duration: 1s;
+        top: 51px;
+        left: 37px;
+    }
+
+    #n-daf37cb7-e770-4c87-b46a-3840a1a3eb17 {
+        --normal-background-color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-8cb819ce-353c-4105-85c6-02d11ca4b7f5 {
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+    }
+
+    #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
+        border-top-right-radius: 15px;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        --hover-background-color: rgba(158, 158, 158, 1);
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+
+    #n-91c99e94-6713-4d78-b339-08b1d836fc12 {
+        background-image: var(--bg-1199, var(--background-image));
+    }
+
+    #n-1f636169-df42-44c8-b12b-f05cb81ac548 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    #n-2430252b-4ad6-4167-a2b0-d9a8b88c02d3 {
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+
+    #n-dadfa56f-1bf1-4a7f-ba08-868c3487894c {
+        top: 211px;
+        left: 80px;
+        width: 980px;
+        height: 1797px;
+        animation-duration: 0.5s;
+    }
+
+    #n-f8bed194-e5c4-4c43-bf17-f02d13a79cf6 {
+        height: 1207px;
+        animation-delay: 0s;
+        animation-duration: 0s;
+        top: 611px;
+        left: 175px;
+        width: 790px;
+    }
+
+    #n-6fd6d546-19ff-401d-9201-e74f9931b8f1 {
+        line-height: 70px;
+        margin-right: 0px;
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        --normal-box-shadow: none;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        font-style: normal;
+        font-weight: 400;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        font-size: 60px;
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        border-top-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+        margin-bottom: 25px;
+    }
+
+    #n-1f636169-df42-44c8-b12b-f05cb81ac548 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-2f20aa78-dd1b-4821-928a-4ed172a8eafd {
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-daf37cb7-e770-4c87-b46a-3840a1a3eb17 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-7ef26d48-715e-4e69-9713-492648d50c4a {
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        border-bottom-left-radius: 6px;
+    }
+
+    #n-e99f9973-33dc-45cd-9577-b86c92555d8f {
+        width: 458px;
+        height: 84px;
+        animation-delay: 0s;
+        animation-duration: 0.5s;
+        top: 285px;
+        left: 343px;
+    }
+
+    #n-f4f8813d-8448-4448-83e0-2f908da93442 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-6ffa0430-79a6-4997-96b8-87987bed30db {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-8cb819ce-353c-4105-85c6-02d11ca4b7f5 {
+        border-bottom-right-radius: 6px;
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-top-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+    }
+
+    #n-a0aea7cf-fbd5-4ee5-a451-850f6ebb47b5 {
+        width: 768px;
+        height: 631px;
+        min-height: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #n-b355807a-c2c3-4b81-a0d0-61b99fda6d3d {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+    }
+
+    #n-84f5abf9-46a2-4fd1-9507-b1426382ade4 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-0d6ce0c9-445a-4ccd-b867-e8968fffe859 {
+        top: 51px;
+        left: 37px;
+        width: 483px;
+        height: 172px;
+        animation-duration: 1s;
+    }
+
+    #n-ae5a743c-bf8b-4496-a444-ddb0f44b54c9 {
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+    }
+
+    #n-fe82e6a6-9ff0-4892-bcec-0006d32ef241 {
+        border-top-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-top-left-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-f8096427-c739-4f8d-aa83-3b7a43634b31 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-79585e2b-842b-4bee-81f8-4123ed93c12c {
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+
+    #n-b6ec750d-d152-4550-b949-7b0bc4222da5 {
+        --active-border: 0px solid rgb(0, 0, 255);
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+    }
+
+    #n-c3bdfa37-5c13-4838-984f-d87b159c5921 {
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+    }
+
+    #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        --hover-background-color: rgba(158, 158, 158, 1);
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-right-radius: 15px;
+        font-style: normal;
+    }
+
+    #n-91c99e94-6713-4d78-b339-08b1d836fc12 {
+        background-image: var(--bg-1023, var(--background-image));
+    }
+
+    #n-170135b4-642a-4de5-9675-12121092dc5d {
+        top: 425px;
+        left: 175px;
+        width: 788px;
+        animation-delay: 0s;
+        height: 139px;
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        animation-duration: 0s;
+    }
+
+    #n-aea48321-f71d-434b-94ce-e23e18574d1e {
+        --normal-box-shadow: none;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-left-radius: 15px;
+        font-weight: 400;
+        margin-bottom: 25px;
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        border-bottom-right-radius: 15px;
+        font-size: 60px;
+        font-style: normal;
+        margin-right: 0px;
+        line-height: 70px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        --normal-color: rgba(33, 33, 33, 1);
+    }
+
+    #n-8b7c004f-56f3-49c9-82e5-9903a968364b {
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-906205ac-8f82-4ea0-919b-b500cdcf9fcc {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-6c5d1d11-6a65-48c2-9b3a-cfa0abaf4652 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    #n-91c99e94-6713-4d78-b339-08b1d836fc12 {
+        background-image: var(--bg-767, var(--background-image));
+    }
+
+    #n-dadfa56f-1bf1-4a7f-ba08-868c3487894c {
+        width: 980px;
+        height: 1797px;
+        animation-duration: 0.5s;
+        top: 211px;
+        left: 80px;
+    }
+
+    #n-f8bed194-e5c4-4c43-bf17-f02d13a79cf6 {
+        top: 611px;
+        left: 175px;
+        width: 790px;
+        height: 1207px;
+        animation-delay: 0s;
+        animation-duration: 0s;
+    }
+
+    #n-6fd6d546-19ff-401d-9201-e74f9931b8f1 {
+        line-height: 70px;
+        margin-bottom: 25px;
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        font-weight: 400;
+        --normal-box-shadow: none;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-right-radius: 15px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        margin-right: 0px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        font-size: 60px;
+        font-style: normal;
+        --normal-color: rgba(33, 33, 33, 1);
+    }
+
+    #n-1f636169-df42-44c8-b12b-f05cb81ac548 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-b6ec750d-d152-4550-b949-7b0bc4222da5 {
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-right-radius: 6px;
+        border-bottom-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+    }
+
+    #n-6c5d1d11-6a65-48c2-9b3a-cfa0abaf4652 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-a0aea7cf-fbd5-4ee5-a451-850f6ebb47b5 {
+        width: 667px;
+        height: 455px;
+        min-height: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #n-84f5abf9-46a2-4fd1-9507-b1426382ade4 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-c3bdfa37-5c13-4838-984f-d87b159c5921 {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+    }
+
+    #n-fe82e6a6-9ff0-4892-bcec-0006d32ef241 {
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        border-bottom-left-radius: 6px;
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-right-radius: 15px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        --hover-background-color: rgba(158, 158, 158, 1);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        border-bottom-left-radius: 15px;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-0d6ce0c9-445a-4ccd-b867-e8968fffe859 {
+        left: 37px;
+        width: 483px;
+        height: 172px;
+        animation-duration: 1s;
+        top: 51px;
+    }
+
+    #n-e99f9973-33dc-45cd-9577-b86c92555d8f {
+        left: 343px;
+        width: 458px;
+        height: 84px;
+        animation-delay: 0s;
+        animation-duration: 0.5s;
+        top: 285px;
+    }
+
+    #n-b355807a-c2c3-4b81-a0d0-61b99fda6d3d {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+    }
+
+    #n-79585e2b-842b-4bee-81f8-4123ed93c12c {
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+    }
+
+    #n-8b7c004f-56f3-49c9-82e5-9903a968364b {
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        --normal-box-shadow: none;
+    }
+
+    #n-ae5a743c-bf8b-4496-a444-ddb0f44b54c9 {
+        border-bottom-right-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-bottom-left-radius: 6px;
+    }
+
+    #n-f8096427-c739-4f8d-aa83-3b7a43634b31 {
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+    }
+
+    #n-2430252b-4ad6-4167-a2b0-d9a8b88c02d3 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-daf37cb7-e770-4c87-b46a-3840a1a3eb17 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-2f20aa78-dd1b-4821-928a-4ed172a8eafd {
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-box-shadow: none;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+    }
+
+    #n-170135b4-642a-4de5-9675-12121092dc5d {
+        font-style: normal;
+        line-height: 70px;
+        width: 788px;
+        left: 175px;
+        height: 139px;
+        font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        animation-delay: 0s;
+        animation-duration: 0s;
+        top: 425px;
+    }
+
+    #n-6ffa0430-79a6-4997-96b8-87987bed30db {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-906205ac-8f82-4ea0-919b-b500cdcf9fcc {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-7ef26d48-715e-4e69-9713-492648d50c4a {
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+    }
+
+    #n-aea48321-f71d-434b-94ce-e23e18574d1e {
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-box-shadow: none;
+        border-top-right-radius: 15px;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-left-radius: 15px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        margin-right: 0px;
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        font-weight: 400;
+        margin-bottom: 25px;
+        border-bottom-right-radius: 15px;
+    }
+
+    #n-f4f8813d-8448-4448-83e0-2f908da93442 {
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+    }
+
+    #n-8cb819ce-353c-4105-85c6-02d11ca4b7f5 {
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+    }
+}
+
+@media screen and (max-width: 666px) {
+    #n-b6ec750d-d152-4550-b949-7b0bc4222da5 {
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+    }
+
+    #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
+        font-size: 60px;
+        font-weight: 400;
+        --hover-background-color: rgba(158, 158, 158, 1);
+        border-bottom-left-radius: 15px;
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        --normal-background-color: rgba(238, 238, 238, 1);
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        line-height: 70px;
+        --normal-color: rgba(33, 33, 33, 1);
+        border-bottom-right-radius: 15px;
+    }
+
+    #n-906205ac-8f82-4ea0-919b-b500cdcf9fcc {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-fe82e6a6-9ff0-4892-bcec-0006d32ef241 {
+        color: rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-0d6ce0c9-445a-4ccd-b867-e8968fffe859 {
+        top: 51px;
+        left: 37px;
+        width: 483px;
+        height: 172px;
+        animation-duration: 1s;
+    }
+
+    #n-f8bed194-e5c4-4c43-bf17-f02d13a79cf6 {
+        top: 611px;
+        left: 175px;
+        width: 790px;
+        height: 1207px;
+        animation-delay: 0s;
+        animation-duration: 0s;
+    }
+
+    #n-f8096427-c739-4f8d-aa83-3b7a43634b31 {
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+    }
+
+    #n-79585e2b-842b-4bee-81f8-4123ed93c12c {
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+    }
+
+    #n-8b7c004f-56f3-49c9-82e5-9903a968364b {
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-top-right-radius: 6px;
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+    }
+
+    #n-8cb819ce-353c-4105-85c6-02d11ca4b7f5 {
+        color: rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        border-bottom-right-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --normal-box-shadow: none;
+        border-top-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+    }
+
+    #n-91c99e94-6713-4d78-b339-08b1d836fc12 {
+        background-image: var(--bg-666, var(--background-image));
+    }
+
+    #n-dadfa56f-1bf1-4a7f-ba08-868c3487894c {
+        height: 1797px;
+        animation-duration: 0.5s;
+        top: 211px;
+        left: 80px;
+        width: 980px;
+    }
+
+    #n-b355807a-c2c3-4b81-a0d0-61b99fda6d3d {
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+
+    #n-2f20aa78-dd1b-4821-928a-4ed172a8eafd {
+        --normal-box-shadow: none;
+        border-top-left-radius: 6px;
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        color: rgba(255, 255, 255, 1);
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-7ef26d48-715e-4e69-9713-492648d50c4a {
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+        --active-border: 0px solid rgb(0, 0, 255);
+        --active-box-shadow: none;
+        --normal-box-shadow: none;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+    }
+
+    #n-6c5d1d11-6a65-48c2-9b3a-cfa0abaf4652 {
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+    }
+
+    #n-a0aea7cf-fbd5-4ee5-a451-850f6ebb47b5 {
+        width: 360px;
+        height: 504px;
+        min-height: 0px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+
+    #n-daf37cb7-e770-4c87-b46a-3840a1a3eb17 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-ae5a743c-bf8b-4496-a444-ddb0f44b54c9 {
+        --active-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        border-bottom-left-radius: 6px;
+        border-bottom-right-radius: 6px;
+        --normal-background-color: rgba(255, 255, 255, 1);
+        color: rgba(255, 255, 255, 1);
+        --normal-border: 0px solid rgba(255, 255, 255, 1);
+        --active-box-shadow: none;
+        border-top-left-radius: 6px;
+        border-top-right-radius: 6px;
+        --active-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-84f5abf9-46a2-4fd1-9507-b1426382ade4 {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-c3bdfa37-5c13-4838-984f-d87b159c5921 {
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+    }
+
+    #n-2430252b-4ad6-4167-a2b0-d9a8b88c02d3 {
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+    }
+
+    #n-170135b4-642a-4de5-9675-12121092dc5d {
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        animation-delay: 0s;
+        animation-duration: 0s;
+        top: 425px;
+        left: 175px;
+        width: 788px;
+        height: 139px;
+        font-weight: 400;
+        line-height: 70px;
+    }
+
+    #n-e99f9973-33dc-45cd-9577-b86c92555d8f {
+        left: 343px;
+        width: 458px;
+        height: 84px;
+        animation-delay: 0s;
+        animation-duration: 0.5s;
+        top: 285px;
+    }
+
+    #n-6fd6d546-19ff-401d-9201-e74f9931b8f1 {
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-left-radius: 15px;
+        font-size: 60px;
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        font-style: normal;
+        margin-right: 0px;
+        margin-bottom: 25px;
+        --normal-box-shadow: none;
+        border-top-right-radius: 15px;
+        border-bottom-right-radius: 15px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+    }
+
+    #n-aea48321-f71d-434b-94ce-e23e18574d1e {
+        border-bottom-right-radius: 15px;
+        font-size: 60px;
+        --focus-border: 2px solid rgba(33, 33, 33, 1);
+        --normal-background-color: rgba(238, 238, 238, 1);
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        border-top-right-radius: 15px;
+        line-height: 70px;
+        margin-right: 0px;
+        margin-bottom: 25px;
+        --normal-color: rgba(33, 33, 33, 1);
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-bottom-left-radius: 15px;
+        font-style: normal;
+        font-weight: 400;
+        --normal-box-shadow: none;
+        border-top-left-radius: 15px;
+    }
+
+    #n-1f636169-df42-44c8-b12b-f05cb81ac548 {
+        --normal-border: 0px solid rgb(0, 0, 255);
+        --normal-box-shadow: none;
+        --active-background-color: rgba(255, 255, 255, 1);
+        --normal-background-color: rgba(255, 255, 255, 1);
+    }
+
+    #n-f4f8813d-8448-4448-83e0-2f908da93442 {
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+        color: rgba(33, 33, 33, 1);
+    }
+
+    #n-6ffa0430-79a6-4997-96b8-87987bed30db {
+        color: rgba(33, 33, 33, 1);
+        font-size: 60px;
+        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
+        font-weight: 400;
+        line-height: 70px;
+    }
+}

@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Gloria Hallelujah', cursive;
     background: #fffaf9;
     color: #333;
 }
@@ -27,4 +27,70 @@ h2 {
     font-family: 'Great Vibes', cursive;
     font-size: 2.5rem;
     text-align: center;
+}
+
+.wedding-intro {
+    background: url('https://www.transparenttextures.com/patterns/paper-fibers.png') repeat; /* бумажный фон */
+    text-align: center;
+    padding: 80px 20px 60px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #3cb371;
+    border: 6px dashed #3cb371;
+    border-radius: 20px;
+    margin: 40px auto;
+    max-width: 600px;
+    box-shadow: 4px 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+
+.wedding-intro h2 {
+    font-size: 3.5rem;
+    margin-bottom: 20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    color: #3cb371; /* милый зелёный */
+    text-shadow: 1px 1px 2px #d4ecd4; /* нежная тень */
+}
+
+
+.heart {
+    font-size: 2.5rem;
+    animation: heartbeat 1.5s infinite;
+    color: #e91e63;
+    text-shadow: 0 0 5px #f8bbd0;
+}
+
+.drawings {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.doodle {
+    width: 50px;
+    height: 50px;
+    opacity: 0.9;
+    transform: rotate(-5deg);
+    transition: transform 0.3s;
+}
+
+.doodle:hover {
+    transform: rotate(5deg) scale(1.1);
+}
+
+
+
+.heart {
+    font-size: 2.5rem;
+    animation: heartbeat 1.5s infinite;
+    color: #ad0d0d;
+}
+
+@keyframes heartbeat {
+    0%, 100% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.2);
+    }
 }
