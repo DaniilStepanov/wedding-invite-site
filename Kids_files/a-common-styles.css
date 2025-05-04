@@ -1521,7 +1521,7 @@ a[data-action-cart=true] {
   height:100%
 }
 [data-blocks-wrapper] {
-  overflow-x:clip;
+  overflow-x:hidden;
   position:relative
 }
 .modal-open {

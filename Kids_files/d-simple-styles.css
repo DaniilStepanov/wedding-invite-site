@@ -16,16 +16,16 @@
 /*    background-size: var(--background-size)*/
 /*}*/
 
-.cli-block {
-    position: relative;
-    overflow: visible; /* или уберите overflow вообще */
-}
+/*.cli-block {*/
+/*    position: relative;*/
+/*    overflow: visible; !* или уберите overflow вообще *!*/
+/*}*/
 
 .cli-background {
     position: absolute;
     top: 0;
     left: 50%;
-    width: calc(100vw - (100vw - 100%));
+    width: 100vw; /* <--- Исправлено: Простая ширина вьюпорта */
     height: 100%;
     transform: translateX(-50%);
     z-index: -1;
