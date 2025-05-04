@@ -78,6 +78,34 @@
         .cli-block {
             font-family: "Stem", var(--sans-serif);
         }
+
+        html, body {
+            width: 100%;
+            max-width: 100%;
+            overflow-x: hidden;
+            margin: 0;
+            padding: 0;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        @media screen and (max-width: 767px) {
+            /* Убираем все отрицательные горизонтальные отступы на мобильных */
+            [class*="cli-"] {
+                margin-left: 0 !important;
+                margin-right: 0 !important;
+            }
+
+            /* Убеждаемся, что все блоки не выходят за границы экрана */
+            .cli-block, .cli-block__content, .cli-grid {
+                width: 100% !important;
+                max-width: 100% !important;
+                box-sizing: border-box !important;
+                overflow-x: hidden !important;
+            }
+        }
     </style>
 </head>
 <body class="th1" style="">
