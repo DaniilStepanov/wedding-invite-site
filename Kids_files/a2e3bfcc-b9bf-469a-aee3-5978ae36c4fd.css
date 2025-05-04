@@ -113,7 +113,17 @@
     --hover-background-color: rgba(158, 158, 158, 1);
     --normal-background-color: rgba(238, 238, 238, 1);
     border-bottom-left-radius: 15px;
+
+    /* Добавляем центрирование */
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -120px;
+    /* Если нужно центрирование и по вертикали, добавьте: */
+    /* top: 50%; */
+    /* transform: translate(-50%, -50%); */
 }
+
 
 #n-79585e2b-842b-4bee-81f8-4123ed93c12c {
     line-height: 70px;
@@ -624,19 +634,28 @@
     }
 
     #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
-        border-top-right-radius: 15px;
-        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-right-radius: 15px;
         font-size: 60px;
-        font-style: normal;
         font-family: "Zen Kurenaido", var(--sans-serif);
         font-weight: 400;
         line-height: 70px;
-        --normal-color: rgba(33, 33, 33, 1);
         --normal-border: 2px solid rgba(33, 33, 33, 1);
         border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        font-style: normal;
+        --normal-color: rgba(33, 33, 33, 1);
         --hover-background-color: rgba(158, 158, 158, 1);
+        --normal-background-color: rgba(238, 238, 238, 1);
         border-bottom-left-radius: 15px;
-        border-bottom-right-radius: 15px;
+
+        /* Добавляем центрирование */
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: -120px;
+        /* Если нужно центрирование и по вертикали, добавьте: */
+        /* top: 50%; */
+        /* transform: translate(-50%, -50%); */
     }
 
     #n-91c99e94-6713-4d78-b339-08b1d836fc12 {
@@ -884,19 +903,28 @@
     }
 
     #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
-        --normal-color: rgba(33, 33, 33, 1);
-        --normal-border: 2px solid rgba(33, 33, 33, 1);
-        border-top-left-radius: 15px;
-        border-top-right-radius: 15px;
-        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
         font-size: 60px;
         font-family: "Zen Kurenaido", var(--sans-serif);
         font-weight: 400;
         line-height: 70px;
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        font-style: normal;
+        --normal-color: rgba(33, 33, 33, 1);
         --hover-background-color: rgba(158, 158, 158, 1);
         --normal-background-color: rgba(238, 238, 238, 1);
-        border-bottom-right-radius: 15px;
-        font-style: normal;
+        border-bottom-left-radius: 15px;
+
+        /* Добавляем центрирование */
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: -120px;
+        /* Если нужно центрирование и по вертикали, добавьте: */
+        /* top: 50%; */
+        /* transform: translate(-50%, -50%); */
     }
 
     #n-91c99e94-6713-4d78-b339-08b1d836fc12 {
@@ -1081,19 +1109,28 @@
     }
 
     #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
-        --normal-background-color: rgba(238, 238, 238, 1);
         border-bottom-right-radius: 15px;
-        font-family: "Zen Kurenaido", var(--sans-serif);
-        --normal-color: rgba(33, 33, 33, 1);
-        --normal-border: 2px solid rgba(33, 33, 33, 1);
-        --hover-background-color: rgba(158, 158, 158, 1);
-        border-top-left-radius: 15px;
-        border-top-right-radius: 15px;
-        border-bottom-left-radius: 15px;
         font-size: 60px;
-        font-style: normal;
+        font-family: "Zen Kurenaido", var(--sans-serif);
         font-weight: 400;
         line-height: 70px;
+        --normal-border: 2px solid rgba(33, 33, 33, 1);
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        font-style: normal;
+        --normal-color: rgba(33, 33, 33, 1);
+        --hover-background-color: rgba(158, 158, 158, 1);
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-left-radius: 15px;
+
+        /* Добавляем центрирование */
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: -120px;
+        /* Если нужно центрирование и по вертикали, добавьте: */
+        /* top: 50%; */
+        /* transform: translate(-50%, -50%); */
     }
 
     #n-0d6ce0c9-445a-4ccd-b867-e8968fffe859 {
@@ -1303,19 +1340,28 @@
     }
 
     #n-774963a6-5c60-4d35-bd7b-76fb83f42509 {
+        border-bottom-right-radius: 15px;
         font-size: 60px;
+        font-family: "Zen Kurenaido", var(--sans-serif);
         font-weight: 400;
-        --hover-background-color: rgba(158, 158, 158, 1);
-        border-bottom-left-radius: 15px;
+        line-height: 70px;
         --normal-border: 2px solid rgba(33, 33, 33, 1);
         border-top-left-radius: 15px;
         border-top-right-radius: 15px;
-        --normal-background-color: rgba(238, 238, 238, 1);
         font-style: normal;
-        font-family: "Zen Kurenaido", var(--sans-serif);
-        line-height: 70px;
         --normal-color: rgba(33, 33, 33, 1);
-        border-bottom-right-radius: 15px;
+        --hover-background-color: rgba(158, 158, 158, 1);
+        --normal-background-color: rgba(238, 238, 238, 1);
+        border-bottom-left-radius: 15px;
+
+        /* Добавляем центрирование */
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: -120px;
+        /* Если нужно центрирование и по вертикали, добавьте: */
+        /* top: 50%; */
+        /* transform: translate(-50%, -50%); */
     }
 
     #n-906205ac-8f82-4ea0-919b-b500cdcf9fcc {
